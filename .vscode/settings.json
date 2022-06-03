@@ -1,5 +1,4 @@
 {
-    "editor.hover.enabled": false,
-    "editor.suggest.showWords": true,
     "editor.parameterHints.enabled": false
+
 }
